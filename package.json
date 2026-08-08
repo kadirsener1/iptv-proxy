@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "name": "iptv-proxy",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
