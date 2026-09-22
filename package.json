@@ -1,7 +1,10 @@
 {
-  "version": 1,
   "name": "iptv-proxy",
+  "type": "module",
+  "scripts": { "start": "node server.js" },
   "dependencies": {
-    "node-fetch": "^2.6.7"
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2",
+    "cloudscraper": "^4.6.0"
   }
 }
